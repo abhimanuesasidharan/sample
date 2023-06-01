@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700&family=Mulish:wght@400;500;700&family=Playfair:wght@300;400;700&display=swap');
+.logo{
+    width: 100px;
+}
+.navbar{
+   background-color:rgb(182, 203, 222);
+    
+    
+}
+
+#carouselExampleCaptions{
+    margin:10px;
+    padding: 10px;;
+}
+.carousel-inner{
+    border-radius: 15px;
+}
+.nav-link{
+    color: black;
+    font-family: Heebo;
+}
