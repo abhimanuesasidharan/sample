@@ -3,8 +3,7 @@
     width: 100px;
 }
 .navbar{
-   background-color:whitesmoke;
-    
+   background-color:white;
     
 }
 
@@ -18,4 +17,13 @@
 .nav-link{
     color: black;
     font-family: Heebo;
+}
+.navbar-toggler-icon{
+    background-color:black;
+}
+.img-fluid{
+    border-radius: 18px;
+}
+.button{
+    border-radius: 20px;
 }
