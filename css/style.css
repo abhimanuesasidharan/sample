@@ -19,7 +19,8 @@
     font-family: Heebo;
 }
 .navbar-toggler-icon{
-    background-color:black;
+    background-color:rgb(103, 102, 102);
+    border-radius: 50%;
 }
 .img-fluid{
     border-radius: 18px;
